@@ -32,7 +32,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-| <a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/2eea3a481a1411fef3d53.png" width="400px" height="400px" /></a> |
+| <a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/2eea3a481a1411fef3d53.png" width="300px" height="700px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Asad Ali Owner Of Jankari Ki Duniya](https://t.me/Dr_Asad_Ali)**                                                                                |
 | <a href="https://t.me/Dr_Asad_Ali"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> <a href="https://www.instagram.com/asad_ali8"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/jankarikiduniya"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px" height="100px"></a>              <a href="https://facebook.com/asadali.bsat"><img src="https://telegra.ph/file/3274549109051466720ec.png" width="100px" height="100px">                                                                   
