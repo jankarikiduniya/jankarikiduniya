@@ -116,7 +116,7 @@ I created these images, feel free to use them.
 # Contribution Graph ❤️🇵🇰 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 
 <p align="center">
-  <a href="https://github.com/Dihanofficial">
+  <a href="https://github.com/jankarikiduniya">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jankarikiduniya"/>
   </a>
 </p>
