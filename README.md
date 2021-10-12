@@ -35,7 +35,7 @@ You can use the website to generate badges: https://shields.io/
 | <a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/74b3bd237e2c67e5f998e.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Dr Asad Ali](https://t.me/Dr_Asad_Ali)**                                                                                |
-| <a href="https://t.me/Dihanrandila"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/asad_ali8"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/jankarikiduniya"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="32px" height="32px"></a>              <a href="https://facebook.com/asadali.bsat"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg-256.png" width="32px" height="32px">                                                                   
+| <a href="https://t.me/Dr_Asad_Ali"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/asad_ali8"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/jankarikiduniya"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="32px" height="32px"></a>              <a href="https://facebook.com/asadali.bsat"><img src="https://telegra.ph/file/b4d6ec7ba14b409537950.png" width="32px" height="32px">                                                                   
 
 
 <!-- Talking about you -->
@@ -57,11 +57,11 @@ You can use the website to generate badges: https://shields.io/
 **Languages and Tools:** 
 
 <!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
+You can use this api: https://github.com/jankarikiduniya/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/dihanofficial/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=dihanofficial&layout=compact&show_icons=true&theme=radical&cache_seconds=1800" />
+  <a href="https://github.com/jankarikiduniya/handle-path-oz">
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=jankarikiduniya&layout=compact&show_icons=true&theme=radical&cache_seconds=1800" />
   </a>
   
   
@@ -122,7 +122,7 @@ I created these images, feel free to use them.
 </p>
 <a href="h
 
-  <a href="https://github.com/jankarikiduniya"><img alt="Dihan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jankarikiduniya&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/jankarikiduniya"><img alt="Asad Ali's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jankarikiduniya&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
