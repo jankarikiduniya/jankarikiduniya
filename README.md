@@ -117,7 +117,7 @@ I created these images, feel free to use them.
 
 <p align="center">
   <a href="https://github.com/Dihanofficial">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dihanofficial#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jankarikiduniya"/>
   </a>
 </p>
 <a href="h
