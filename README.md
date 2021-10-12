@@ -35,7 +35,7 @@ You can use the website to generate badges: https://shields.io/
 | <a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/3cbe0a21e4dc58b61e042.jpg" width="720px" height="720px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Asad Ali Owner Of Jankari Ki Duniya](https://t.me/Dr_Asad_Ali)**                                                                                |
-| <a href="https://t.me/Dr_Asad_Ali"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> <a href="https://www.instagram.com/asad_ali8"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/jankarikiduniya"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px" height="100px"></a>              <a href="https://facebook.com/asadali.bsat"><img src="https://telegra.ph/file/b4d6ec7ba14b409537950.png" width="120px" height="120px">                                                                   
+| <a href="https://t.me/Dr_Asad_Ali"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> <a href="https://www.instagram.com/asad_ali8"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/jankarikiduniya"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px" height="100px"></a>              <a href="https://facebook.com/asadali.bsat"><img src="https://telegra.ph/file/3274549109051466720ec.png" width="100px" height="100px">                                                                   
 
 
 <!-- Talking about you -->
@@ -47,7 +47,7 @@ You can use the website to generate badges: https://shields.io/
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" />
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />  
   
--  🚶‍ &nbsp; I live in : Pakistan 🇵🇰  <br>
+- 🚶‍ &nbsp; I live in : Pakistan 🇵🇰  <br>
 - 👀 I’m interested in ... 👉 **Medical**
 - 🌱 I’m currently learning ... **C++, Python, Anesthesia**
 - 💞️ My Carrier ... [YouTube](https://youtube.com/jankarikiduniya)
